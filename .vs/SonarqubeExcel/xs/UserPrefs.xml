@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{88DCE93D-2DDE-4269-9D42-76436C19DE86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SonarqubeExcel/Program.cs">
+    <Files>
+      <File FileName="SonarqubeExcel/Program.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SonarqubeExcel" expanded="True">
+            <Node name="SonarqubeExcel" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SonarqubeExcel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
